@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springpetclinic.iml" filepath="$PROJECT_DIR$/springpetclinic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springpetclinic-data/springpetclinic-data.iml" filepath="$PROJECT_DIR$/springpetclinic-data/springpetclinic-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springpetclinic-web/springpetclinic-web.iml" filepath="$PROJECT_DIR$/springpetclinic-web/springpetclinic-web.iml" />
+    </modules>
+  </component>
+</project>

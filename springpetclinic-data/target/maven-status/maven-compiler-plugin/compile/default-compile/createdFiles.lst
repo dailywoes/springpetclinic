@@ -1,0 +1,5 @@
+com\johnrteixeira\springpetclinic\model\Person.class
+com\johnrteixeira\springpetclinic\model\Vet.class
+com\johnrteixeira\springpetclinic\model\Owner.class
+com\johnrteixeira\springpetclinic\model\Pet.class
+com\johnrteixeira\springpetclinic\model\PetType.class
