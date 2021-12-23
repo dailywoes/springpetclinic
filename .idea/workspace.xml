@@ -5,7 +5,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="921fe8fb-e59e-4269-ae86-208021754da4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/springpetclinic-data/src/main/java/com/johnrteixeira/springpetclinic/model/BaseEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springpetclinic-data/src/main/java/com/johnrteixeira/springpetclinic/services/CrudService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springpetclinic-data/src/main/java/com/johnrteixeira/springpetclinic/services/map/AbstractMapService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springpetclinic-data/src/main/java/com/johnrteixeira/springpetclinic/services/map/OwnerServiceMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springpetclinic-data/src/main/java/com/johnrteixeira/springpetclinic/services/map/PetServiceMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springpetclinic-data/src/main/java/com/johnrteixeira/springpetclinic/services/map/VetServiceMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springpetclinic-data/target/classes/com/johnrteixeira/springpetclinic/model/BaseEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springpetclinic-data/target/classes/com/johnrteixeira/springpetclinic/services/CrudService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springpetclinic-data/target/classes/com/johnrteixeira/springpetclinic/services/OwnerService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springpetclinic-data/target/classes/com/johnrteixeira/springpetclinic/services/PetService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springpetclinic-data/target/classes/com/johnrteixeira/springpetclinic/services/VetService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springpetclinic-data/target/classes/com/johnrteixeira/springpetclinic/services/map/AbstractMapService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springpetclinic-data/target/classes/com/johnrteixeira/springpetclinic/services/map/OwnerServiceMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springpetclinic-data/target/classes/com/johnrteixeira/springpetclinic/services/map/PetServiceMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springpetclinic-data/target/classes/com/johnrteixeira/springpetclinic/services/map/VetServiceMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springpetclinic-web/src/main/java/com/johnrteixeira/springpetclinic/controllers/IndexController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springpetclinic-web/src/main/java/com/johnrteixeira/springpetclinic/controllers/VetController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springpetclinic-web/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springpetclinic-web/src/main/resources/templates/vets/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springpetclinic-web/src/main/resources/vizsla.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springpetclinic-web/target/classes/com/johnrteixeira/springpetclinic/controllers/IndexController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springpetclinic-web/target/classes/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springpetclinic-web/target/classes/vizsla.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springpetclinic-data/src/main/java/com/johnrteixeira/springpetclinic/model/Owner.java" beforeDir="false" afterPath="$PROJECT_DIR$/springpetclinic-data/src/main/java/com/johnrteixeira/springpetclinic/model/Owner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springpetclinic-data/src/main/java/com/johnrteixeira/springpetclinic/services/OwnerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/springpetclinic-data/src/main/java/com/johnrteixeira/springpetclinic/services/OwnerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springpetclinic-data/src/main/java/com/johnrteixeira/springpetclinic/services/PetService.java" beforeDir="false" afterPath="$PROJECT_DIR$/springpetclinic-data/src/main/java/com/johnrteixeira/springpetclinic/services/PetService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springpetclinic-data/src/main/java/com/johnrteixeira/springpetclinic/services/VetService.java" beforeDir="false" afterPath="$PROJECT_DIR$/springpetclinic-data/src/main/java/com/johnrteixeira/springpetclinic/services/VetService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springpetclinic-data/target/classes/com/johnrteixeira/springpetclinic/model/Owner.class" beforeDir="false" afterPath="$PROJECT_DIR$/springpetclinic-data/target/classes/com/johnrteixeira/springpetclinic/model/Owner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springpetclinic-data/target/classes/com/johnrteixeira/springpetclinic/model/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/springpetclinic-data/target/classes/com/johnrteixeira/springpetclinic/model/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springpetclinic-data/target/classes/com/johnrteixeira/springpetclinic/model/Pet.class" beforeDir="false" afterPath="$PROJECT_DIR$/springpetclinic-data/target/classes/com/johnrteixeira/springpetclinic/model/Pet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springpetclinic-data/target/classes/com/johnrteixeira/springpetclinic/model/PetType.class" beforeDir="false" afterPath="$PROJECT_DIR$/springpetclinic-data/target/classes/com/johnrteixeira/springpetclinic/model/PetType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springpetclinic-data/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/springpetclinic-data/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springpetclinic-data/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/springpetclinic-data/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springpetclinic-data/target/pet-clinic-data-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springpetclinic-data/target/pet-clinic-data-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springpetclinic-web/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springpetclinic-web/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springpetclinic-web/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springpetclinic-web/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springpetclinic-web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/springpetclinic-web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springpetclinic-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/springpetclinic-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springpetclinic-web/target/pet-clinic-web-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springpetclinic-web/target/pet-clinic-web-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springpetclinic-web/target/pet-clinic-web-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/springpetclinic-web/target/pet-clinic-web-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springpetclinic-web/target/surefire-reports/TEST-com.johnrteixeira.springpetclinic.SpringPetClinicApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springpetclinic-web/target/surefire-reports/TEST-com.johnrteixeira.springpetclinic.SpringPetClinicApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springpetclinic-web/target/surefire-reports/com.johnrteixeira.springpetclinic.SpringPetClinicApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/springpetclinic-web/target/surefire-reports/com.johnrteixeira.springpetclinic.SpringPetClinicApplicationTests.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +58,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="HTML File" />
         <option value="Class" />
       </list>
     </option>
@@ -65,11 +108,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/springpetclinic-data/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring5jokesapp" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
@@ -85,7 +133,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Maven.springpetclinic [package]">
+  <component name="RunManager" selected="Spring Boot.SpringpetclinicApplication">
     <configuration name="springpetclinic [clean]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -162,7 +210,7 @@
       <workItem from="1639688496836" duration="1000" />
       <workItem from="1640067738775" duration="220000" />
       <workItem from="1640067970339" duration="340000" />
-      <workItem from="1640068319789" duration="6042000" />
+      <workItem from="1640068319789" duration="13375000" />
     </task>
     <task id="LOCAL-00001" summary="Initialized Project Files">
       <created>1639676739275</created>
@@ -192,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640192724009</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Adding Base Entity for Models">
+      <created>1640193009245</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1640193009245</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,6 +273,7 @@
     <MESSAGE value="Initialized Project Files" />
     <MESSAGE value="Adding project files to git" />
     <MESSAGE value="Adding Service Interfaces for POJOs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding Service Interfaces for POJOs" />
+    <MESSAGE value="Adding Base Entity for Models" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding Base Entity for Models" />
   </component>
 </project>

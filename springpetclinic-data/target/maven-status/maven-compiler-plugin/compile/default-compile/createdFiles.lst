@@ -1,5 +1,14 @@
-com\johnrteixeira\springpetclinic\model\Person.class
-com\johnrteixeira\springpetclinic\model\Vet.class
-com\johnrteixeira\springpetclinic\model\Owner.class
+com\johnrteixeira\springpetclinic\services\map\VetServiceMap.class
+com\johnrteixeira\springpetclinic\services\map\AbstractMapService.class
+com\johnrteixeira\springpetclinic\services\PetService.class
 com\johnrteixeira\springpetclinic\model\Pet.class
 com\johnrteixeira\springpetclinic\model\PetType.class
+com\johnrteixeira\springpetclinic\services\map\PetServiceMap.class
+com\johnrteixeira\springpetclinic\services\OwnerService.class
+com\johnrteixeira\springpetclinic\model\Person.class
+com\johnrteixeira\springpetclinic\services\VetService.class
+com\johnrteixeira\springpetclinic\model\Vet.class
+com\johnrteixeira\springpetclinic\model\Owner.class
+com\johnrteixeira\springpetclinic\services\CrudService.class
+com\johnrteixeira\springpetclinic\services\map\OwnerServiceMap.class
+com\johnrteixeira\springpetclinic\model\BaseEntity.class
