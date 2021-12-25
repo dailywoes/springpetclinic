@@ -1,4 +1,4 @@
 package com.johnrteixeira.springpetclinic.model;
 
-public class Owner extends BaseEntity {
+public class Owner extends Person {
 }
