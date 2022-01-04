@@ -1,2 +1,5 @@
-com\johnrteixeira\springpetclinic\SpringPetClinicApplication.class
+com\johnrteixeira\springpetclinic\controllers\OwnerController.class
+com\johnrteixeira\springpetclinic\controllers\VetController.class
 com\johnrteixeira\springpetclinic\controllers\IndexController.class
+com\johnrteixeira\springpetclinic\SpringPetClinicApplication.class
+com\johnrteixeira\springpetclinic\bootstrap\DataLoader.class
