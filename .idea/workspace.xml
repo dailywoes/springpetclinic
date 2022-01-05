@@ -5,29 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="921fe8fb-e59e-4269-ae86-208021754da4" name="Changes" comment="added service map">
-      <change afterPath="$PROJECT_DIR$/springpetclinic-web/src/main/resources/static/resources/css/petclinic.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springpetclinic-web/src/main/resources/static/resources/fonts/montserrat-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springpetclinic-web/src/main/resources/static/resources/fonts/montserrat-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springpetclinic-web/src/main/resources/static/resources/fonts/montserrat-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springpetclinic-web/src/main/resources/static/resources/fonts/montserrat-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springpetclinic-web/src/main/resources/static/resources/fonts/varela_round-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springpetclinic-web/src/main/resources/static/resources/fonts/varela_round-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springpetclinic-web/src/main/resources/static/resources/fonts/varela_round-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springpetclinic-web/src/main/resources/static/resources/fonts/varela_round-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springpetclinic-web/src/main/resources/static/resources/images/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springpetclinic-web/src/main/resources/static/resources/images/pets.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springpetclinic-web/src/main/resources/static/resources/images/platform-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springpetclinic-web/src/main/resources/static/resources/images/spring-logo-dataflow-mobile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springpetclinic-web/src/main/resources/static/resources/images/spring-logo-dataflow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springpetclinic-web/src/main/resources/static/resources/images/spring-pivotal-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springpetclinic-web/src/main/resources/templates/fragments/inputField.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springpetclinic-web/src/main/resources/templates/fragments/layout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springpetclinic-web/src/main/resources/templates/fragments/selectField.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springpetclinic-data/src/main/java/com/johnrteixeira/springpetclinic/services/map/AbstractMapService.java" beforeDir="false" afterPath="$PROJECT_DIR$/springpetclinic-data/src/main/java/com/johnrteixeira/springpetclinic/services/map/AbstractMapService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springpetclinic-data/target/classes/com/johnrteixeira/springpetclinic/services/map/AbstractMapService.class" beforeDir="false" afterPath="$PROJECT_DIR$/springpetclinic-data/target/classes/com/johnrteixeira/springpetclinic/services/map/AbstractMapService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springpetclinic-data/target/pet-clinic-data-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springpetclinic-data/target/pet-clinic-data-0.0.1-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/springpetclinic-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springpetclinic-web/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springpetclinic-web/target/classes/templates/vets/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/springpetclinic-web/target/classes/templates/vets/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springpetclinic-web/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/springpetclinic-web/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springpetclinic-web/target/classes/static/resources/css/petclinic.css" beforeDir="false" afterPath="$PROJECT_DIR$/springpetclinic-web/target/classes/static/resources/css/petclinic.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springpetclinic-web/target/pet-clinic-web-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springpetclinic-web/target/pet-clinic-web-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springpetclinic-web/target/pet-clinic-web-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/springpetclinic-web/target/pet-clinic-web-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +81,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/springpetclinic-web/src/main/resources/templates" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/springpetclinic-web/src/main" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
@@ -107,6 +91,7 @@
       <recent name="com.johnrteixeira.springpetclinic" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\Spring Framework Course\springpetclinic\springpetclinic-web\src\main" />
       <recent name="D:\Projects\Spring Framework Course\springpetclinic\springpetclinic-web\src\main\resources\templates" />
       <recent name="D:\Projects\Spring Framework Course\springpetclinic\springpetclinic-web\src\main\resources\static" />
       <recent name="E:\Projects\Spring Framework Course\springpetclinic\springpetclinic-data\src\main\java" />
@@ -176,8 +161,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Maven.springpetclinic [clean]" />
         <item itemvalue="Maven.springpetclinic [package]" />
+        <item itemvalue="Maven.springpetclinic [clean]" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +181,7 @@
       <workItem from="1640068319789" duration="17197000" />
       <workItem from="1641238727447" duration="2212000" />
       <workItem from="1641315536575" duration="3541000" />
-      <workItem from="1641418422589" duration="2821000" />
+      <workItem from="1641418422589" duration="3463000" />
     </task>
     <task id="LOCAL-00001" summary="Initialized Project Files">
       <created>1639676739275</created>
